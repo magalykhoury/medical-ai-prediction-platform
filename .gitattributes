@@ -1,2 +1,2 @@
-# Count notebooks as documentation so the repo language reflects the app code
-*.ipynb linguist-documentation
+# Exclude notebooks from GitHub language stats so the repo language reflects the app code
+*.ipynb linguist-vendored
